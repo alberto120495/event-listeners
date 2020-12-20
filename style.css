@@ -1,0 +1,24 @@
+body,
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.abuelo {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.padre {
+  background-color: blue;
+  width: 130px;
+  height: 130px;
+}
+
+.hijo {
+  background-color: green;
+  width: 60px;
+  height: 60px;
+}
